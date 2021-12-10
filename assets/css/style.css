@@ -272,6 +272,11 @@
     /* overflow: clip;
     overflow-clip-margin: 10px; */
 }
+.news-novosti {
+    float: none;
+    width: 30%;
+    margin: 20px auto;
+}
 .news .article-news {
     background-color: #f7f7f7;
     border-bottom: 1px solid #9f6934;
@@ -282,7 +287,9 @@
     color: #000000;
     text-align: center;
 }
-
+.novosti-rss {
+    color: orange;
+}
 .news .article-news .article-news-content p{
     padding: 10px;
 }
