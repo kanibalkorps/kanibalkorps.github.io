@@ -304,6 +304,10 @@
     margin: 20px 0px;
     transition: opacity 0.2s ease-in-out;
 }
+.news .article-news-novosti {
+    margin: 20px 0px;
+    transition: opacity 0.2s ease-in-out;
+}
 .news .article-news:hover {
     opacity: 0.5;
 }
